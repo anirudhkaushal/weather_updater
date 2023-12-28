@@ -1,5 +1,5 @@
 # Indianapolis weather forecast 
-Date: ['2023-12-26'] 
+Date: ['2023-12-27'] 
 
-Minimum temperature(in celsius) is [3.1] 
-Maximum temperature(in celsius) is [12.1]
+Minimum temperature(in celsius) is [-1.0] 
+Maximum temperature(in celsius) is [9.3]
