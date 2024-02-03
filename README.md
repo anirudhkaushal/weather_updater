@@ -1,5 +1,5 @@
 # Indianapolis weather forecast 
-Date: ['2024-02-01'] 
+Date: ['2024-02-02'] 
 
-Minimum temperature(in celsius) is [0.3] 
-Maximum temperature(in celsius) is [11.1]
+Minimum temperature(in celsius) is [0.9] 
+Maximum temperature(in celsius) is [6.5]
